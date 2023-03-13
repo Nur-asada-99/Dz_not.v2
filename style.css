@@ -1,0 +1,168 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background: linear-gradient(90deg, #d70fe9, #70109f, #1060bc);
+    
+
+
+}
+
+/* .conteyner {
+    display: block;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content:;
+} */
+
+.info img {
+    width: 150px;
+    height: 150px;
+    border-radius: 13%;
+    border: 2px solid rgb(255, 255, 255);
+    margin-top: 5px;
+    margin-left: 5px;
+     
+}
+
+.info {
+    margin-top: 40px;
+    margin-left: 25%;
+    display: flex;
+    background-color: rgb(1, 122, 170);
+    width: 600px;
+    height: 370px;
+    border: 2px solid rgb(1, 195, 156);
+    border-radius: 10px;
+
+
+}
+
+
+.info2 {
+    margin-top: 40px;
+    margin-left: 25%;
+    display: flex;
+    background-color: rgb(1, 122, 170);
+    width: 600px;
+    height: 250px;
+    border: 2px solid rgb(1, 195, 156);
+    border-radius: 10px;
+
+
+}
+
+.info3 {
+    margin-top: 40px;
+    margin-left: 25%;
+    display: flex;
+    background-color: rgb(1, 122, 170);
+    width: 600px;
+    height: 250px;
+    border: 2px solid rgb(1, 195, 156);
+    border-radius: 10px;
+
+
+}
+
+
+.info4 {
+    margin-top: 40px;
+    margin-left: 25%;
+    display: flex;
+    background-color: rgb(1, 122, 170);
+    width: 600px;
+    height: 250px;
+    border: 2px solid rgb(1, 195, 156);
+    border-radius: 10px;
+
+
+}
+
+
+.title h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(11, 8, 2);
+
+}
+
+.title {
+    margin-left: 40px;
+}
+
+p {
+    color: wheat;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.s {
+    font-size: 20px;
+    
+}
+
+.hobbi {
+    width: 600px;
+    height: 250px;
+    background-color: rgb(255, 251, 0);
+    border: 2px solid rgb(228, 228, 228);
+    border-radius: 8px;
+    margin-top: 40px;
+    margin-left: 335px;
+
+
+}
+
+.skils {
+    width: 600px;
+    height: 250px;
+    background-color: rgb(4, 184, 142);
+    border: 2px solid rgb(228, 228, 228);
+    border-radius: 8px;
+    margin-top: 40px;
+    margin-left: 335px;
+}
+
+.ssilki {
+    width: 600px;
+    height: 250px;
+    background-color: rgb(1, 186, 17);
+    border: 2px solid rgb(228, 228, 228);
+    border-radius: 8px;
+    margin-top: 40px;
+    margin-left: 335px;
+}
+
+
+.miting_vis_me {
+    width: 600px;
+    height: 250px;
+    margin-top: 40px;
+    margin-left: 335px;
+    text-align: center;
+}
+
+.s2 {
+    /* background-color: rgb(255, 255, 255); */
+    display: flex;
+    flex-direction: row;
+
+    width: 75px;
+    height: 280px;
+
+    justify-content:space-between;
+        
+      
+}
+
+.s2 img {
+    height: 70px;
+    width: 70px;
+
+}
+
+.one {
+    border-color: #d70fe9 solid rgb(1, 186, 17);
+    background-color: rgb(255, 255, 255);
+}
